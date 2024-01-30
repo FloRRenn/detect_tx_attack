@@ -98,6 +98,7 @@ The data files are located in the `data/` folder. Please refer to the [report](.
 
 </center>
 <br>
+
 * `data/transaction_trace` : I used this folder for training. These files contain transaction sequences for each stage, serving as labels. The detail:
 
 <center>
